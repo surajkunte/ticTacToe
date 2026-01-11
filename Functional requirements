@@ -1,0 +1,11 @@
+Tic Tac toe:
+
+1. 2 Player board game
+2. User can place X or an O depending on who's turn it is
+3. A player wins if he gets 3 in a row diagonally or horizontally or vertically first, game ends
+
+classes:
+
+game
+board
+player
